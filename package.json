@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vueuse/nuxt": "^14.2.1"
+  }
+}
